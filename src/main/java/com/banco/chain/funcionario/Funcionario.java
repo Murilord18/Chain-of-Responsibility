@@ -1,6 +1,5 @@
 package com.banco.chain.funcionario;
 
-import com.banco.chain.modelo.Solicitacao;
 import com.banco.chain.transacao.TipoTransacao;
 
 
